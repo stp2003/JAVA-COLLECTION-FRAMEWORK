@@ -14,7 +14,7 @@ public class GenericFunctions {
         Integer[] arr = {10, 20, 30, 40, 50};
         System.out.println(count(arr, 30));
 
-        String [] str = {"a", "b", "c", "d"};
+        String[] str = {"a", "b", "c", "d"};
         System.out.println(count(str, "c"));
 
     }
