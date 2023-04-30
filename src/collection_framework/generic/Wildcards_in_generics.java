@@ -41,5 +41,4 @@ public class Wildcards_in_generics {
         printStudents(arrayList2);
 
     }
-
 }
