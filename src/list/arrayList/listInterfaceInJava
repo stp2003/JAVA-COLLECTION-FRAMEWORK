@@ -1,0 +1,31 @@
+List Interface In Java have these following extra methods ->
+
+
+1. get(int index)
+
+2. set(int index, E element)  -> E is ia generic type
+
+3. indexOf(Object O)   -> gives 1st item
+
+4. listIterator()
+
+5. listIterator(int index)
+
+6. remove(int index)
+
+
+
+List Iterator have the following extra functionalities ->
+
+1. hasPrevious()
+
+2. previous()
+
+3. add()
+
+4. set()
+
+5. nextIndex()
+
+6. previousIndex()
+
