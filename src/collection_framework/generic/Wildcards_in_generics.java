@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 class Student {
     void print() {
-        System.out.println("Students");
+        System.out.println("Students")
     }
 }
 
