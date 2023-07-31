@@ -1,6 +1,6 @@
 package list.linkedList;
 
-import java.util.LinkedList
+import java.util.LinkedList;
 
 public class LinkedListBasics {
 
