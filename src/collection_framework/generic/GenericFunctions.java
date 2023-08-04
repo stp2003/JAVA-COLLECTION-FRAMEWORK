@@ -1,4 +1,4 @@
-package collection_framework.generic
+package collection_framework.generic;
 
 public class GenericFunctions {
     public static <T> int count(T[] arr, T x) {
